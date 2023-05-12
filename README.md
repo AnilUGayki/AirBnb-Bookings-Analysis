@@ -18,8 +18,8 @@ When it comes to spendings on services, customer will take a deep look inside wh
   - Analysis of locations(neighbourhood_group) prefered by customers.
   - Analysis of average price over room type (What is price distribution based on room type)
   - Analysis of reviews with respect to host_names (Which host_name has more reviews)
-  - Analysis of availability with respect to minimum nights paid with its price for room types.
-  - Analysis of host availability over neighbourhood and neighbourhood_groups
+  - Analysis of corelation between availability over 365 days, minimum nights paids, price and host count.
+  - Analysis of host availability over neighbourhood_groups in percentage.
 
 ## How this will be useful for business owners?
   - By Using above findings, business owners can take necessary decisions with respect to the services they are currently providing. 
